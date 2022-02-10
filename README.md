@@ -1,1 +1,1 @@
-# THis is an example
+# This is an example
